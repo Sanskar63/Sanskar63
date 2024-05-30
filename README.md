@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Sanskar Gupta, Full Stack Developer 
 ## 🌱 I’m currently working on:
 - My Project for college site.
-- Working with an institution to make its official site as a Backend developer.
+- Working as a Backend developer with an institution to make its official site.
 ## 📫 Connect me with-
 <a href="https://www.linkedin.com/in/sanskar-gupta-9b1b73256/"><img align="left" src="https://github.com/Sanskar63/Sanskar63/assets/129537566/59b66a71-a9c8-4065-9ca5-8c1add4c4080" alt="Sanskar Gupta | LinkedIn" width="21px"/></a>
 , Mail me at sanskar06march@gmail.com
